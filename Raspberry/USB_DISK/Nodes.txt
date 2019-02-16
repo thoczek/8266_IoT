@@ -1,0 +1,3 @@
+100		Przed³u¿acz
+101		Salon temperatura
+102		Góra mój temperatura
